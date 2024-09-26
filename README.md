@@ -1,7 +1,10 @@
 # DLMU2024
 Underwater detection dataset <br>
-链接：https://pan.baidu.com/s/1xUqcVfGWp2YaZEnn3BRPnw <br>
-提取码：7oj7 <br>
+
+通过网盘分享的文件：DLMU_2024.zip
+链接: https://pan.baidu.com/s/1Kt5Zbh08BQY6ip97vIBmMw <br>
+提取码: 4d48 <br>
+
 If you use this underwater dataset, please cite this github link and our paper as follows: <br>
 https://github.com/shenxin-dlmu/DLMU2024 <br>
 This paper is being published: **Unsupervised Clustering Optimization-based Efficient Visual Perception Attention in YOLO for Underwater Object Detection**<br>
