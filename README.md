@@ -2,8 +2,8 @@
 Underwater detection dataset <br>
 
 通过网盘分享的文件：DLMU_2024.zip
-链接: https://pan.baidu.com/s/1Kt5Zbh08BQY6ip97vIBmMw <br>
-提取码: 4d48 <br>
+链接: <br>
+提取码:  <br>
 
 If you use this underwater dataset, please cite this github link and our paper as follows: <br>
 https://github.com/shenxin-dlmu/DLMU2024 <br>
