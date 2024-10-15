@@ -1,9 +1,9 @@
 # DLMU2024
 Underwater detection dataset <br>
 
-通过网盘分享的文件：DLMU_2024.zip
-链接: <br>
-提取码:  <br>
+通过网盘分享的文件：DLMU_2024.zip <br>
+链接: https://pan.baidu.com/s/1It1zaZsCuwzsZP5N24Zm9g  <br>
+提取码: dmrp <br>
 
 If you use this underwater dataset, please cite this github link and our paper as follows: <br>
 https://github.com/shenxin-dlmu/DLMU2024 <br>
